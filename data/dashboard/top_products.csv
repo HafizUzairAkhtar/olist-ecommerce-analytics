@@ -1,0 +1,11 @@
+rank,product_label,product_category_name_english,product_id,units_sold,revenue_brl,revenue_usd
+1,health_beauty · bb50f2,health_beauty,bb50f2e236e5eea0100680137654686c,195,63885.0,17502.74
+2,health_beauty · 6cdd53,health_beauty,6cdd53843498f92890544667809f1595,156,54730.2,14994.58
+3,computers · d6160f,computers,d6160fb7873f184099d9bc95e30376af,35,48899.34,13397.08
+4,computers_accessories · d1c427,computers_accessories,d1c427060a0f73f6b889a5c7c61f2ac4,341,46916.51,12853.84
+5,bed_bath_table · 99a478,bed_bath_table,99a4788cb24856965c36a24e339b6058,487,42938.66,11764.02
+6,computers_accessories · 3dd2a1,computers_accessories,3dd2a17168ec895c781a9191c1e95ad7,274,41082.6,11255.51
+7,baby · 25c385,baby,25c38557cf793876c5abdd5931f922db,38,38907.32,10659.54
+8,cool_stuff · 5f504b,cool_stuff,5f504b3a1c75b73d6151be81eb05bdc9,63,37733.9,10338.05
+9,watches_gifts · 53b36d,watches_gifts,53b36df67ebb7c41585e8d54d6772e08,323,37683.42,10324.22
+10,furniture_decor · aca2eb,furniture_decor,aca2eb7d00ea1a7b8ebd4e68314663af,527,37608.9,10303.81

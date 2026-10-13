@@ -1,0 +1,7 @@
+metric,value
+total_orders,98199.0
+total_revenue_brl,15735527.03
+total_revenue_usd,4311098.62
+avg_delivery_days,12.6
+on_time_delivery_rate,0.9189
+delivered_orders,96470.0

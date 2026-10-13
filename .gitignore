@@ -1,0 +1,6 @@
+# raw Kaggle download and full cleaned tables are large; regenerate with the notebook
+data/raw/
+data/clean/
+data/dashboard/orders_fact.csv
+.ipynb_checkpoints/
+__pycache__/
